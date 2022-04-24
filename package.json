@@ -1,0 +1,28 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "Proyecto spiderverse",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sheepshenko/spiderverse.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "spiderverse",
+    "LaunchX"
+  ],
+  "author": "Fernando Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheepshenko/spiderverse/issues"
+  },
+  "homepage": "https://github.com/sheepshenko/spiderverse#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
